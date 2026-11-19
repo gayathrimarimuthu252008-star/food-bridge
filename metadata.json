@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge",
+  "description": "Online food donation and distribution platform connecting surplus food donors, NGOs, and delivery volunteers with expiry prioritization and real-time allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
